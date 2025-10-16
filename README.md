@@ -81,39 +81,6 @@
 
 ---
 
-## 📝 Current Research Interests
-
-```python
-class ResearchInterests:
-    def __init__(self):
-        self.primary_focus = [
-            "Time Series Forecasting with Transformers",
-            "Neural Architecture Search",
-            "Model Interpretability Methods",
-            "Probabilistic Deep Learning"
-        ]
-        
-        self.academic_goals = [
-            "MSc in Computer Science at ETH Zurich",
-            "Research in LAS (Learning & Adaptive Systems) Group",
-            "Publications in top-tier conferences",
-            "Open-source ML contributions"
-        ]
-    
-    def current_work(self):
-        return "Building robust forecasting models with uncertainty quantification"
-
-research = ResearchInterests()
-🎓 Academic Journey
-"My research philosophy centers on developing mathematically rigorous models that not only achieve high performance but also provide interpretable insights. I'm particularly interested in bridging the gap between theoretical foundations and practical applications in machine learning."
-
-Next Milestone: ETH Zurich Masters
-Focus Areas: Machine Learning, Data Science, AI Research
-
-Research Groups: LAS, Data Analytics, AI Center
-
-Timeline: 2024 Admissions Cycle
-
 🌐 Connect With Me
 <div align="center">
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
