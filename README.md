@@ -97,7 +97,7 @@
 
 ## 🔥 Current Focus
 
-```python
+python
 class AI_Passion:
     def __init__(self):
         self.current_projects = [
@@ -118,6 +118,8 @@ class AI_Passion:
         return "Exploring the intersection of data and intelligence"
 
 ai_work = AI_Passion()
+
+
 🌐 Let's Connect
 <div align="center">
 https://img.shields.io/badge/Connect%2520on%2520LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
