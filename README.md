@@ -1,38 +1,96 @@
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">Turning data into intelligence and real-world solutions.</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<!-- Header Section -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Saini;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsml&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsml" /> </p>
+<!-- Tagline -->
+<h3 align="center">🧠 Teaching models the art of insight</h3>
 
-- 🔭 I’m currently learning at **Chitkara University**  
-- 🌱 I’m passionate about **AI & Machine Learning**, exploring **time series forecasting, predictive modeling, and data-driven solutions**  
-- 👨‍💻 I aim to **build impactful projects that bring intelligence into everyday life**  
-- 📫 How to reach me: **sainianikket71@gmail.com**  
-- ⚡ Fun fact: **I love experimenting with AI projects and turning ideas into practical applications**
+<!-- Stats Cards -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniketsml&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsml&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniket-saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/aniketsml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</p>
+<!-- Top Languages -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsml&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsml&show_icons=true&locale=en&layout=compact" alt="aniketsml" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsml&show_icons=true&locale=en" alt="aniketsml" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsml&" alt="aniketsml" /></p>
+<!-- About Section -->
+<div align="center">
+
+## 🎯 About My Journey
+
+<div align="left">
+
+🎓 **Computer Science Student** at **Chitkara University**  
+🔬 **Research Focus**: Time Series Forecasting • Predictive Modeling • Neural Architecture  
+💡 **Philosophy**: Building models that don't just predict, but understand patterns  
+🚀 **Goal**: Master's in AI/ML at ETH Zurich — pushing boundaries in intelligent systems  
+
+</div>
+
+</div>
+
+<br/>
+
+<!-- Tech Stack -->
+<div align="center">
+
+## 🛠️ Technical Arsenal
+
+### **Core Languages**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+### **AI/ML Ecosystem**
+<div>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+### **Web & Tools**
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+</div>
+
+<br/>
+
+<!-- Current Focus -->
+<div align="center">
+
+## 🔭 Current Focus
+
+```python
+class ResearchInterests:
+    def __init__(self):
+        self.primary = ["Time Series Analysis", "Deep Learning Architectures"]
+        self.secondary = ["Model Interpretability", "Ensemble Methods"]
+        self.exploring = ["Probabilistic ML", "Neural ODEs"]
+        
+    def current_work(self):
+        return "Building predictive models that balance complexity with interpretability"
+</div>
+<!-- Connect Section --><div align="center">
+📫 Let's Connect & Collaborate
+<div align="center"> <a href="https://linkedin.com/in/aniket-saini" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sainianiket71@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/aniketsml"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center">
+"The most exciting models are the ones that teach us something new about the data — and about ourselves."
+⭐ From aniketsml
+
+</div></div> ```
