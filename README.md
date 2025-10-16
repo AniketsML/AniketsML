@@ -1,50 +1,154 @@
-# Hi 👋, I’m Aniket Saini  
-**AI & Data Science Enthusiast** | B.E. (CSE – AI), Chitkara University  
+<div align="center">
+
+<!-- Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:8A2BE2&height=180&section=header" />
+
+<!-- Animated Title -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Aniket Saini
+</h1>
+
+<!-- Tagline -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=30&lines=AI+Research+Enthusiast;Machine+Learning+Researcher;Future+ETH+Zurich+Scholar" alt="Typing SVG" />
+</h3>
+
+<!-- Stats Cards -->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniketsml&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_title=false&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsml&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
+</div>
+
+<br/>
+
+<!-- Quick Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/aniket-saini">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sainianiket71@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aniketsml?tab=repositories">
+    <img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🧠 About Me  
-I’m passionate about learning and experimenting with AI & ML. I explore areas like time series forecasting, predictive modeling, computer vision, and NLP. I build small projects to challenge myself, improve continuously, and eventually create AI solutions that feel natural and useful.
+## 🎯 Research Focus
 
-- 🔍 Focus areas: predictive models, computer vision, data-driven systems  
-- 📈 Always growing — iterating on what I build and what I learn  
-- 🎯 Goal: turn curiosity into projects that matter  
-
----
-
-## 🔧 Skills & Tools  
-Here are some technologies and frameworks I’m familiar with or learning:
-
-| Category | Tools / Libraries |
-|----------|---------------------|
-| Languages | Python, Java, JavaScript |
-| ML / AI | TensorFlow, PyTorch, Scikit-learn |
-| Data & Tools | Pandas, NumPy, OpenCV |
-| Web & Dev | HTML, CSS, Flask / FastAPI (basic) |
-
----
-
-## 🚀 What I’m Learning  
-- More advanced deep learning techniques  
-- Reinforcement learning & generative models  
-- Deployment (Docker, cloud services)  
-- Improving model generalization and interpretability  
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Primary Research</h3>
+      <ul>
+        <li><b>Time Series Analysis</b> - Advanced forecasting models</li>
+        <li><b>Neural Architecture</b> - Custom model design & optimization</li>
+        <li><b>Model Interpretability</b> - Understanding black box models</li>
+        <li><b>Probabilistic ML</b> - Uncertainty quantification</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Exploration</h3>
+      <ul>
+        <li><b>Graph Neural Networks</b></li>
+        <li><b>Causal Inference</b></li>
+        <li><b>Bayesian Methods</b></li>
+        <li><b>Reinforcement Learning</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Featured Projects  
-*(Click to explore)*  
-- **Intellimed** — Blood cell classification with fine-tuned EfficientNet-B3  
-- **MEDITRACK** — AI-driven health tracking / monitoring app  
-- **DeepFake Detector** — Computer vision model to detect manipulated images  
+## 🛠 Technical Stack
+
+<div align="center">
+
+### **Programming Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### **Machine Learning**
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+### **Data Science**
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+### **Tools & Platforms**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+</div>
 
 ---
 
-## 📫 Let’s Connect  
-- 📧 Email: **sainianikket71@gmail.com**  
-- 🔗 LinkedIn: [Your LinkedIn profile URL]  
-- 📂 GitHub: [github.com/aniketsml](https://github.com/aniketsml)  
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<!-- Top Languages -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsml&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&hide=html,css,scss&langs_count=8" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsml&theme=react-dark&bg_color=0d1117&hide_border=true&color=00d4ff&line=8A2BE2&point=00d4ff" width="100%" />
+
+</div>
 
 ---
 
-*I’m always open to discussing ideas, collaborations, or feedback. Feel free to reach out!*  
+## 📝 Current Research Interests
+
+```python
+class ResearchInterests:
+    def __init__(self):
+        self.primary_focus = [
+            "Time Series Forecasting with Transformers",
+            "Neural Architecture Search",
+            "Model Interpretability Methods",
+            "Probabilistic Deep Learning"
+        ]
+        
+        self.academic_goals = [
+            "MSc in Computer Science at ETH Zurich",
+            "Research in LAS (Learning & Adaptive Systems) Group",
+            "Publications in top-tier conferences",
+            "Open-source ML contributions"
+        ]
+    
+    def current_work(self):
+        return "Building robust forecasting models with uncertainty quantification"
+
+research = ResearchInterests()
+🎓 Academic Journey
+"My research philosophy centers on developing mathematically rigorous models that not only achieve high performance but also provide interpretable insights. I'm particularly interested in bridging the gap between theoretical foundations and practical applications in machine learning."
+
+Next Milestone: ETH Zurich Masters
+Focus Areas: Machine Learning, Data Science, AI Research
+
+Research Groups: LAS, Data Analytics, AI Center
+
+Timeline: 2024 Admissions Cycle
+
+🌐 Connect With Me
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white
+
+</div>
+<div align="center">
+"Building the future of AI, one model at a time"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D4FF&height=120&section=footer" /></div> ```
