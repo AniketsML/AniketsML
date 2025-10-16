@@ -1,124 +1,118 @@
+<!-- 🌊 HEADER -->
 <div align="center">
 
-<!-- 🌊 Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=160&section=header&text=Welcome+to+Aniket's+AI+World!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Aniket%20Saini&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<!-- ✨ Name & Title -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <b>Hi, I'm Aniket 👨‍💻</b>
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Developer+%7C+ML+Engineer+%7C+Data+Explorer;Building+Intelligent+Systems+with+Data;Learning+Every+Day+🚀" alt="Typing SVG" />
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=480&lines=AI+Developer+%7C+ML+Engineer+%7C+Data+Explorer;Building+Intelligent+Systems+with+Data;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
 </h3>
 
----
-
-<!-- ⚡ Stats Section -->
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aniketsml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsml&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-</div>
-
-<br/>
-
-<!-- 🔗 Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/aniket-saini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sainianiket71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/aniketsml?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>
+  <a href="https://linkedin.com/in/aniket-saini">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sainianiket71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aniketsml">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About My AI Journey
+<!-- 🧠 ABOUT SECTION -->
+<h2 align="center">🧠 About Me</h2>
 
-I'm a passionate **AI developer** dedicated to exploring how **data transforms into intelligence**.  
-From predictive modeling to deep learning, every project I build fuels my curiosity about the future of smart systems.
+<p align="center">
+I’m an <b>AI & Machine Learning Developer</b> passionate about transforming data into intelligent, actionable systems.  
+Every model I build is a step toward pushing the boundaries of what’s possible with AI.
+</p>
 
-**💼 Focus Areas**
-- 🤖 Deep Learning & Neural Networks  
-- 🎯 Machine Learning Applications  
-- 📊 Data Analysis & Visualization  
-- 🧩 End-to-End AI System Design  
+<div align="center">
+
+💡 <b>Focus Areas:</b>  
+🎯 Machine Learning • 🤖 Deep Learning • 📊 Data Science • 🧩 Neural Networks  
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<!-- ⚙️ TECH STACK -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
-### ⚙️ **AI & ML Frameworks**
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🧠 Artificial Intelligence
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-</div>
-
-### 🧮 **Data Science Tools**
-<div align="center">
-
+#### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</div>
-
-### 💻 **Development & Tools**
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 💻 Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Insights
+<!-- 📈 GITHUB ANALYTICS -->
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&hide=html,css,scss&langs_count=8" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsml&theme=react-dark&bg_color=0d1117&hide_border=true&color=00D4FF&line=8A2BE2&point=00D4FF" width="100%" />
-
-</div>
-
----
-
-## 🔥 Currently Exploring
-
-- 🧠 **Advanced ML models** and real-world problem-solving  
-- ⚙️ **Experimenting with Deep Learning frameworks**  
-- 🌱 **Contributing to open-source AI projects**  
-- 🚀 **Building deployable AI prototypes**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-saini)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainianiket71@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsml)
-
-</div>
-
-<br/>
-
-<!-- 🌊 Footer Wave -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=130&section=footer&animation=fadeIn" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniketsml&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsml&theme=react&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
   
-<h3>💡 <i>"Building ideas, one model at a time."</i> 💡</h3>
+  <br/><br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsml&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" />
+  
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsml&theme=react-dark&bg_color=0d1117&hide_border=true&color=00D4FF&line=8A2BE2&point=00D4FF" width="100%"/>
+</div>
+
+---
+
+<!-- 🔥 CURRENT PROJECTS -->
+<h2 align="center">🔥 What I'm Working On</h2>
+
+<div align="center">
+
+🌱 Learning <b>Advanced Deep Learning</b> and <b>Neural Architectures</b>  
+⚙️ Developing <b>AI-driven Applications</b> using TensorFlow & PyTorch  
+🚀 Building <b>End-to-End Machine Learning Systems</b>  
+💡 Exploring <b>Computer Vision</b> and <b>Generative AI</b>  
+
+</div>
+
+---
+
+<!-- 🌐 CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aniket-saini"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sainianiket71@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/aniketsml"><img src="https://img.shields.io/badge/GitHub-Explore-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- 🌊 FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer" />
+
+<h3>💬 “Building ideas, one model at a time.” 💬</h3>
+
 </div>
