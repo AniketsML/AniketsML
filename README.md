@@ -6,7 +6,7 @@
 <!-- Animated Title -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Aniket Saini
+  Aniket
 </h1>
 
 <!-- Tagline -->
@@ -36,33 +36,6 @@
 </p>
 
 </div>
-
----
-
-## 🎯 Research Focus
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔬 Primary Research</h3>
-      <ul>
-        <li><b>Time Series Analysis</b> - Advanced forecasting models</li>
-        <li><b>Neural Architecture</b> - Custom model design & optimization</li>
-        <li><b>Model Interpretability</b> - Understanding black box models</li>
-        <li><b>Probabilistic ML</b> - Uncertainty quantification</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Exploration</h3>
-      <ul>
-        <li><b>Graph Neural Networks</b></li>
-        <li><b>Causal Inference</b></li>
-        <li><b>Bayesian Methods</b></li>
-        <li><b>Reinforcement Learning</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
