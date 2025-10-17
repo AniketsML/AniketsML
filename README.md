@@ -31,7 +31,7 @@
 
 <!-- Contact Buttons -->
 <div align="center">
-  <a href="https://linkedin.com/in/aniket-saini">
+  <a href="https://linkedin.com/in/aniket0808">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2c2c2c&color=0077B5" />
   </a>
   <a href="mailto:sainianiket71@gmail.com">
@@ -40,7 +40,7 @@
   <a href="https://github.com/aniketsml?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c&color=181717" />
   </a>
-  <a href="https://portfolio-aniket-saini.vercel.app/">
+  <a href="https://portfolio-aniketsml.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2c2c2c&color=FF7139" />
   </a>
 </div>
