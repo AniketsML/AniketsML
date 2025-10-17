@@ -16,10 +16,12 @@
 <br/>
 
 <!-- Stats Cards -->
+  
+<img height="175"
+  src="https://github-readme-streak-stats.herokuapp.com?user=aniketsml&theme=github-dark&hide_border=true&background=0d1117&ring=4a4a4a&fire=ffffff&currStreakLabel=ffffff&custom_title=🔥+Contribution+Streak" />
+
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=aniketsml&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&custom_title=Development+Stats" />
-  
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsml&theme=default&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&custom_title=Contribution+Streak" />
   
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsml&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide=html,css&langs_count=8&custom_title=Top+Languages" />
 </div>
